@@ -337,7 +337,7 @@ p.text-white
     color: red;
 }
 
-.a 
+/* .a 
 {
     width: 0px;
     overflow: hidden;
@@ -353,8 +353,8 @@ p.text-white
     50%{
         width: 16ch;
     }
-}
-.b
+} */
+/* .b
 {
     width: 0px;
     overflow: hidden;
@@ -388,7 +388,7 @@ p.text-white
         width: 16ch;
     }
 }
-
+ */
 .z::before 
 {
     content: ;
@@ -549,4 +549,5 @@ p.text-white
 {
     box-shadow: ;
 }
+
 
