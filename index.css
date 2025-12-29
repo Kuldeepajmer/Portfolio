@@ -521,20 +521,20 @@ p.text-white
 
 
 .skills-wrapper .bar .progress-bar span.html{
-    width: 90%;
+    width: 70%;
 }
 
 .skills-wrapper .bar .progress-bar span.css{
-    width: 79%;
+    width: 60%;
 }
 
 
 .skills-wrapper .bar .progress-bar span.boot{
-    width: 85%;
+    width: 55%;
 }
 
 .skills-wrapper .bar .progress-bar span.lan{
-    width: 70%;
+    width: 50%;
 }
 .t{
     display: flex;
@@ -549,5 +549,6 @@ p.text-white
 {
     box-shadow: ;
 }
+
 
 
